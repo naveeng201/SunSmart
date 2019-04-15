@@ -1,0 +1,14 @@
+C:\Naveen\Repos\SunSmart\SunsmartAwsServerless-master\SunsmartAWSServerless\bin\Debug\netcoreapp2.1\SunsmartAWSServerless.deps.json
+C:\Naveen\Repos\SunSmart\SunsmartAwsServerless-master\SunsmartAWSServerless\bin\Debug\netcoreapp2.1\SunsmartAWSServerless.runtimeconfig.json
+C:\Naveen\Repos\SunSmart\SunsmartAwsServerless-master\SunsmartAWSServerless\bin\Debug\netcoreapp2.1\SunsmartAWSServerless.runtimeconfig.dev.json
+C:\Naveen\Repos\SunSmart\SunsmartAwsServerless-master\SunsmartAWSServerless\bin\Debug\netcoreapp2.1\SunsmartAWSServerless.dll
+C:\Naveen\Repos\SunSmart\SunsmartAwsServerless-master\SunsmartAWSServerless\bin\Debug\netcoreapp2.1\SunsmartAWSServerless.pdb
+C:\Naveen\Repos\SunSmart\SunsmartAwsServerless-master\SunsmartAWSServerless\obj\Debug\netcoreapp2.1\SunsmartAWSServerless.csprojAssemblyReference.cache
+C:\Naveen\Repos\SunSmart\SunsmartAwsServerless-master\SunsmartAWSServerless\obj\Debug\netcoreapp2.1\SunsmartAWSServerless.csproj.CoreCompileInputs.cache
+C:\Naveen\Repos\SunSmart\SunsmartAwsServerless-master\SunsmartAWSServerless\obj\Debug\netcoreapp2.1\SunsmartAWSServerless.RazorAssemblyInfo.cache
+C:\Naveen\Repos\SunSmart\SunsmartAwsServerless-master\SunsmartAWSServerless\obj\Debug\netcoreapp2.1\SunsmartAWSServerless.RazorAssemblyInfo.cs
+C:\Naveen\Repos\SunSmart\SunsmartAwsServerless-master\SunsmartAWSServerless\obj\Debug\netcoreapp2.1\SunsmartAWSServerless.AssemblyInfoInputs.cache
+C:\Naveen\Repos\SunSmart\SunsmartAwsServerless-master\SunsmartAWSServerless\obj\Debug\netcoreapp2.1\SunsmartAWSServerless.AssemblyInfo.cs
+C:\Naveen\Repos\SunSmart\SunsmartAwsServerless-master\SunsmartAWSServerless\obj\Debug\netcoreapp2.1\SunsmartAWSServerless.RazorTargetAssemblyInfo.cache
+C:\Naveen\Repos\SunSmart\SunsmartAwsServerless-master\SunsmartAWSServerless\obj\Debug\netcoreapp2.1\SunsmartAWSServerless.dll
+C:\Naveen\Repos\SunSmart\SunsmartAwsServerless-master\SunsmartAWSServerless\obj\Debug\netcoreapp2.1\SunsmartAWSServerless.pdb
